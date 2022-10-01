@@ -1,5 +1,5 @@
-#include "simplearray.h"
-#include "linkedlist.h"
+#include "simplearray/simplearray.h"
+#include "linkedlist/linkedlist.h"
 
 
 int main()
@@ -7,4 +7,5 @@ int main()
     //simpleArray();
 
     linkedList();
+    return 0;
 }
