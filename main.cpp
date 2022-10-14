@@ -2,6 +2,8 @@
 #include "linkedlist/linkedlist.h"
 #include "stackcollection/stackcollection.h"
 #include "queuecollection/queuecollection.h"
+#include "mapcollection/mapcollection.h"
+#include "doublylinkedlist/doublylinkedlist.h"
 
 int main()
 {
@@ -11,6 +13,10 @@ int main()
 
     //stackCollection();
 
-    queueCollection();
+    //queueCollection();
+
+    //mapCollection();
+
+    doublyLinkedList();
     return 0;
 }
