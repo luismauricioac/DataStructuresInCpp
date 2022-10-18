@@ -1,0 +1,8 @@
+#ifndef DATASTRUCTURESINCPP_BINARYTREE_H
+#define DATASTRUCTURESINCPP_BINARYTREE_H
+
+#include <iostream>
+
+void binaryTree();
+
+#endif //DATASTRUCTURESINCPP_BINARYTREE_H

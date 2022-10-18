@@ -4,6 +4,7 @@
 #include "queuecollection/queuecollection.h"
 #include "mapcollection/mapcollection.h"
 #include "doublylinkedlist/doublylinkedlist.h"
+#include "binarytree/binarytree.h"
 
 int main()
 {
@@ -17,6 +18,8 @@ int main()
 
     //mapCollection();
 
-    doublyLinkedList();
+    //doublyLinkedList();
+
+    binaryTree();
     return 0;
 }
