@@ -5,6 +5,7 @@
 #include "mapcollection/mapcollection.h"
 #include "doublylinkedlist/doublylinkedlist.h"
 #include "binarytree/binarytree.h"
+#include "stlvector/stlvector.h"
 
 int main()
 {
@@ -20,6 +21,8 @@ int main()
 
     //doublyLinkedList();
 
-    binaryTree();
+    //binaryTree();
+
+    stlVector();
     return 0;
 }
